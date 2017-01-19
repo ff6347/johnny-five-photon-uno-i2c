@@ -17,6 +17,7 @@ Example sketch how to communicate from a [Particle Photon](https://store.particl
 ## Hardware  
 
 - tbd  
+
 ## Prerequisites
 
 - tbd  
